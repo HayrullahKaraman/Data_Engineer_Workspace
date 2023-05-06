@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  nifi2:
+    image: apache/nifi:1.13.1
+    container_name: nifi-docker
+    ports:
+      - 8080:8080
+
+    volumes:
+      - D://DataEngineer2023//Nifi//data:/opt/nifi/nifi-current/var/lib/data
