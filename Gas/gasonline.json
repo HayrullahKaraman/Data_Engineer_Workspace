@@ -1,0 +1,4976 @@
+[{
+  "_id": {
+    "$oid": "648dddd8ad5ebf0ddb65e676"
+  },
+  "country": "de",
+  "id": "05f8df9b-a2ee-404b-803c-88ea417121e7",
+  "name": "TotalEnergies Weinstadt",
+  "brand": "TotalEnergies",
+  "street": "Schorndorfer Str. 10",
+  "postalCode": "71384",
+  "place": "Weinstadt",
+  "isOpen": true,
+  "dist": 9.58,
+  "volatility": 141,
+  "coords": {
+    "lat": 48.814119,
+    "lng": 9.369072
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddd9ad5ebf0ddb65e677"
+  },
+  "country": "de",
+  "id": "05f8df9b-a2ee-404b-803c-88ea417121e7",
+  "name": "TotalEnergies Weinstadt",
+  "brand": "TotalEnergies",
+  "street": "Schorndorfer Str. 10",
+  "postalCode": "71384",
+  "place": "Weinstadt",
+  "isOpen": true,
+  "dist": 9.58,
+  "volatility": 141,
+  "coords": {
+    "lat": 48.814119,
+    "lng": 9.369072
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddddaad5ebf0ddb65e678"
+  },
+  "country": "de",
+  "id": "05f8df9b-a2ee-404b-803c-88ea417121e7",
+  "name": "TotalEnergies Weinstadt",
+  "brand": "TotalEnergies",
+  "street": "Schorndorfer Str. 10",
+  "postalCode": "71384",
+  "place": "Weinstadt",
+  "isOpen": true,
+  "dist": 9.58,
+  "volatility": 141,
+  "coords": {
+    "lat": 48.814119,
+    "lng": 9.369072
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddddaad5ebf0ddb65e679"
+  },
+  "country": "de",
+  "id": "00060157-0001-4444-8888-acdc00000001",
+  "name": "Tankstelle Darmsheim",
+  "brand": "",
+  "street": "Widdumstr. 17",
+  "postalCode": "71069",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 22.98,
+  "volatility": 167,
+  "coords": {
+    "lat": 48.696811676025,
+    "lng": 8.9684000015259
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.809,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddddbad5ebf0ddb65e67a"
+  },
+  "country": "de",
+  "id": "005056a9-779e-1ee7-b0fa-b6336badd11b",
+  "name": "star Tankstelle",
+  "brand": "STAR",
+  "street": "Würmstraße 40",
+  "postalCode": "71065",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 20.09,
+  "volatility": 158,
+  "coords": {
+    "lat": 48.704176,
+    "lng": 9.007745
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddddad5ebf0ddb65e67b"
+  },
+  "country": "de",
+  "id": "0085b0f4-b6fa-46f1-be4f-df4c7279618f",
+  "name": "AVIA S-Rappachstr.",
+  "brand": "AVIA",
+  "street": "Rappachstr. 1",
+  "postalCode": "70499",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 11.26,
+  "volatility": 323,
+  "coords": {
+    "lat": 48.8031,
+    "lng": 9.0863
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddddead5ebf0ddb65e67c"
+  },
+  "country": "de",
+  "id": "010355f5-4355-4fdb-a6da-2d996a36ce53",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "NECKARSTR. 60 ",
+  "postalCode": "71686",
+  "place": "REMSECK",
+  "isOpen": true,
+  "dist": 7.63,
+  "volatility": 275,
+  "coords": {
+    "lat": 48.867647,
+    "lng": 9.257662
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde0ad5ebf0ddb65e67d"
+  },
+  "country": "de",
+  "id": "04123103-27a7-4f4c-9183-4184ab634a21",
+  "name": "Shell Waiblingen Mayenner Str. 73",
+  "brand": "Shell",
+  "street": "Mayenner Str. 73",
+  "postalCode": "71332",
+  "place": "Waiblingen",
+  "isOpen": true,
+  "dist": 5.8,
+  "volatility": 210,
+  "coords": {
+    "lat": 48.825322,
+    "lng": 9.309199
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde1ad5ebf0ddb65e67e"
+  },
+  "country": "de",
+  "id": "053c6c07-11bb-4eb3-8f3c-c6b187afe780",
+  "name": "Autohaus K. Fischer GmbH",
+  "brand": "MTB Tankstelle",
+  "street": "Silcher Str. 69",
+  "postalCode": "73666",
+  "place": "Baltmannsweiler",
+  "isOpen": true,
+  "dist": 15.88,
+  "volatility": 1,
+  "coords": {
+    "lat": 48.750657,
+    "lng": 9.443355
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde3ad5ebf0ddb65e67f"
+  },
+  "country": "de",
+  "id": "08827d14-e99c-4e7d-9013-b0cc6d612d5e",
+  "name": "TotalEnergies Remseck",
+  "brand": "TotalEnergies",
+  "street": "Aldinger Str. 8",
+  "postalCode": "71686",
+  "place": "Remseck",
+  "isOpen": true,
+  "dist": 8.66,
+  "volatility": 188,
+  "coords": {
+    "lat": 48.875278,
+    "lng": 9.270556
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde4ad5ebf0ddb65e680"
+  },
+  "country": "de",
+  "id": "0a50e3b7-ffb8-443f-bd68-a396a3cc075d",
+  "name": "Shell Stuttgart Talstr. 28",
+  "brand": "Shell",
+  "street": "Talstr. 28",
+  "postalCode": "70188",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 2.89,
+  "volatility": 158,
+  "coords": {
+    "lat": 48.782557,
+    "lng": 9.210672
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde6ad5ebf0ddb65e681"
+  },
+  "country": "de",
+  "id": "0b8fa4ae-a4be-4aa4-8b57-66abd377b4b2",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "ULMER STR. 83 ",
+  "postalCode": "73728",
+  "place": "ESSLINGEN",
+  "isOpen": true,
+  "dist": 10.18,
+  "volatility": 171,
+  "coords": {
+    "lat": 48.730053,
+    "lng": 9.32961
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde7ad5ebf0ddb65e682"
+  },
+  "country": "de",
+  "id": "0e89ae59-5b14-4a56-8335-921f77e2cb40",
+  "name": "Esso Großbottwar",
+  "brand": "Esso",
+  "street": "Nelkenstr. 2",
+  "postalCode": "71723",
+  "place": "Großbottwar",
+  "isOpen": true,
+  "dist": 23.14,
+  "volatility": 180,
+  "coords": {
+    "lat": 49.0045,
+    "lng": 9.2989
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddde9ad5ebf0ddb65e683"
+  },
+  "country": "de",
+  "id": "136839f9-c812-4e69-86e2-8cba7c7f2ae8",
+  "name": "Shell Sindelfingen Pfarrwiesenallee 10",
+  "brand": "Shell",
+  "street": "Pfarrwiesenallee 10",
+  "postalCode": "71067",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 19.43,
+  "volatility": 148,
+  "coords": {
+    "lat": 48.721464,
+    "lng": 9.003248
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:59:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddeaad5ebf0ddb65e684"
+  },
+  "country": "de",
+  "id": "149f338d-e0fe-4b34-a582-38e53bb33d57",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "MAHDENTALSTR. 97 ",
+  "postalCode": "71065",
+  "place": "SINDELFINGEN",
+  "isOpen": true,
+  "dist": 18.43,
+  "volatility": 183,
+  "coords": {
+    "lat": 48.707452,
+    "lng": 9.031415
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:59:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddecad5ebf0ddb65e685"
+  },
+  "country": "de",
+  "id": "1542a76a-ceaf-4d55-8cef-bcd83af16f3b",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "HAUPTSTR. 136 ",
+  "postalCode": "70563",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 12.93,
+  "volatility": 286,
+  "coords": {
+    "lat": 48.730809,
+    "lng": 9.098163
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddedad5ebf0ddb65e686"
+  },
+  "country": "de",
+  "id": "15aa10e5-cd37-4c8f-a16a-2f8b4793cc6f",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Boschstraße 1",
+  "postalCode": "71336",
+  "place": "Waiblingen-Neustadt",
+  "isOpen": false,
+  "dist": 8.96,
+  "volatility": 376,
+  "coords": {
+    "lat": 48.85757,
+    "lng": 9.325585
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddefad5ebf0ddb65e687"
+  },
+  "country": "de",
+  "id": "182575fd-26f6-4ab1-89f4-618ed5b75683",
+  "name": "Stuttgart",
+  "brand": "Mr. Wash Autoservice AG",
+  "street": "Heilbronner Straße 309",
+  "postalCode": "70469",
+  "place": "Stuttgart",
+  "isOpen": false,
+  "dist": 4.83,
+  "volatility": 153,
+  "coords": {
+    "lat": 48.814924,
+    "lng": 9.1779963
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf1ad5ebf0ddb65e688"
+  },
+  "country": "de",
+  "id": "1edfec10-7861-48c8-9445-ae007d638799",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Ludwigsburger Straße 20",
+  "postalCode": "71696",
+  "place": "Möglingen",
+  "isOpen": true,
+  "dist": 12.71,
+  "volatility": 231,
+  "coords": {
+    "lat": 48.88778,
+    "lng": 9.128691
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf3ad5ebf0ddb65e689"
+  },
+  "country": "de",
+  "id": "24016944-010e-40e4-9831-fb0130a21387",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "DONAUSTR. 2 ",
+  "postalCode": "71522",
+  "place": "BACKNANG",
+  "isOpen": true,
+  "dist": 18.93,
+  "volatility": 263,
+  "coords": {
+    "lat": 48.915776,
+    "lng": 9.429621
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf4ad5ebf0ddb65e68a"
+  },
+  "country": "de",
+  "id": "24117c3d-19f2-43e5-9951-e3d1a593d6e5",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Weilimdorfer Straße 25",
+  "postalCode": "70839",
+  "place": "Gerlingen",
+  "isOpen": true,
+  "dist": 12.69,
+  "volatility": 292,
+  "coords": {
+    "lat": 48.8009033,
+    "lng": 9.06681
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.699,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf6ad5ebf0ddb65e68b"
+  },
+  "country": "de",
+  "id": "24441cab-3a2c-4e95-8640-755b70b541c8",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Boeblinger Straße 69",
+  "postalCode": "71088",
+  "place": "Holzgerlingen",
+  "isOpen": true,
+  "dist": 24.08,
+  "volatility": 148,
+  "coords": {
+    "lat": 48.6456375,
+    "lng": 9.009776
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:04:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf7ad5ebf0ddb65e68c"
+  },
+  "country": "de",
+  "id": "25450d7a-abe5-4cde-bf2f-afd57cb302f6",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Fellbacher Straße 19",
+  "postalCode": "71394",
+  "place": "Kernen-Rommelshausen",
+  "isOpen": true,
+  "dist": 5.7,
+  "volatility": 216,
+  "coords": {
+    "lat": 48.80824,
+    "lng": 9.316758
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:04:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddf9ad5ebf0ddb65e68d"
+  },
+  "country": "de",
+  "id": "264f7008-ba00-442f-be3c-a46fe3c1d4ef",
+  "name": "Shell Leonberg Leonberger Str. 38",
+  "brand": "Shell",
+  "street": "Leonberger Str. 38",
+  "postalCode": "71229",
+  "place": "Leonberg",
+  "isOpen": true,
+  "dist": 16.82,
+  "volatility": 233,
+  "coords": {
+    "lat": 48.791722,
+    "lng": 9.010783
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:25:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddfaad5ebf0ddb65e68e"
+  },
+  "country": "de",
+  "id": "2ad956e7-cf67-4d29-8885-9ec94793399c",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Marie-Curie-Straße 2",
+  "postalCode": "73770",
+  "place": "Denkendorf",
+  "isOpen": true,
+  "dist": 11.38,
+  "volatility": 162,
+  "coords": {
+    "lat": 48.70726,
+    "lng": 9.305527
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:25:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddfcad5ebf0ddb65e68f"
+  },
+  "country": "de",
+  "id": "2c2238a5-cea6-46f3-8467-514f146414a5",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Vaihinger Straße 70",
+  "postalCode": "70567",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 10.74,
+  "volatility": 236,
+  "coords": {
+    "lat": 48.7277451,
+    "lng": 9.142674
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.06,
+    "timestamp": "2023-06-17T12:19:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddfdad5ebf0ddb65e690"
+  },
+  "country": "de",
+  "id": "2cb9bb29-5ea6-4f03-be25-12d568f13f17",
+  "name": "Shell Stuttgart Pforzheimer Str. 261",
+  "brand": "Shell",
+  "street": "Pforzheimer Str. 261",
+  "postalCode": "70499",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 8.63,
+  "volatility": 303,
+  "coords": {
+    "lat": 48.814368,
+    "lng": 9.124166
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T12:19:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dddffad5ebf0ddb65e691"
+  },
+  "country": "de",
+  "id": "2db21d80-48eb-497a-b6e8-8082f83ec4ca",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "PLOCHINGER STR. 8 ",
+  "postalCode": "73269",
+  "place": "HOCHDORF",
+  "isOpen": true,
+  "dist": 20.06,
+  "volatility": 197,
+  "coords": {
+    "lat": 48.694596,
+    "lng": 9.462055
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde00ad5ebf0ddb65e692"
+  },
+  "country": "de",
+  "id": "2ecbd84c-0dd1-4399-a8fb-084d889bd7ef",
+  "name": "Gabriele Steinmaßl",
+  "brand": "Freie Tankstelle",
+  "street": "Poppenweiler Straße 8",
+  "postalCode": "71672",
+  "place": "Marbach am Neckar",
+  "isOpen": false,
+  "dist": 15.3,
+  "volatility": 1,
+  "coords": {
+    "lat": 48.936967,
+    "lng": 9.25936
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.789,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde02ad5ebf0ddb65e693"
+  },
+  "country": "de",
+  "id": "316d6bec-d7c7-4bc4-90cb-6536ef8ec451",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Kirchheimer Straße 97",
+  "postalCode": "73230",
+  "place": "Kirchheim",
+  "isOpen": true,
+  "dist": 24.69,
+  "volatility": 153,
+  "coords": {
+    "lat": 48.6416931,
+    "lng": 9.476037
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde03ad5ebf0ddb65e694"
+  },
+  "country": "de",
+  "id": "33b13644-56bc-4636-9b79-be20f187452d",
+  "name": "Shell Rutesheim Margarete-Steiff-Str. 2",
+  "brand": "Shell",
+  "street": "Margarete-Steiff-Str. 2",
+  "postalCode": "71277",
+  "place": "Rutesheim",
+  "isOpen": true,
+  "dist": 22.94,
+  "volatility": 215,
+  "coords": {
+    "lat": 48.810788,
+    "lng": 8.92719
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde05ad5ebf0ddb65e695"
+  },
+  "country": "de",
+  "id": "362da3f0-4f46-4b42-9dbe-512908496033",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Stuttgarter Straße 141",
+  "postalCode": "71522",
+  "place": "Backnang",
+  "isOpen": true,
+  "dist": 20.93,
+  "volatility": 150,
+  "coords": {
+    "lat": 48.93607,
+    "lng": 9.437789
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde06ad5ebf0ddb65e696"
+  },
+  "country": "de",
+  "id": "3636fb70-77ca-4d84-885d-ba1657c3b266",
+  "name": "TotalEnergies Loechgau",
+  "brand": "TotalEnergies",
+  "street": "Erligheimer Str. 20",
+  "postalCode": "74369",
+  "place": "Loechgau",
+  "isOpen": true,
+  "dist": 24.7,
+  "volatility": 152,
+  "coords": {
+    "lat": 49.003447,
+    "lng": 9.104392
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde07ad5ebf0ddb65e697"
+  },
+  "country": "de",
+  "id": "3a28c4d0-bf8b-4f05-b6cd-bd355dee4783",
+  "name": "TotalEnergies Waiblingen",
+  "brand": "TotalEnergies",
+  "street": "Neckarstr. 47",
+  "postalCode": "71334",
+  "place": "Waiblingen",
+  "isOpen": true,
+  "dist": 7.21,
+  "volatility": 194,
+  "coords": {
+    "lat": 48.852901,
+    "lng": 9.296984
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde08ad5ebf0ddb65e698"
+  },
+  "country": "de",
+  "id": "3b69106c-b50c-497d-95e7-0685746f7e0d",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Siemensstraße 21",
+  "postalCode": "71254",
+  "place": "Ditzingen",
+  "isOpen": true,
+  "dist": 12.75,
+  "volatility": 298,
+  "coords": {
+    "lat": 48.8229027,
+    "lng": 9.069422
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.699,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde0aad5ebf0ddb65e699"
+  },
+  "country": "de",
+  "id": "42660742-90cb-4cb8-b71a-64d8cfe343b5",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Hedelfinger Straße 25A",
+  "postalCode": "70327",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.44,
+  "volatility": 194,
+  "coords": {
+    "lat": 48.7695274,
+    "lng": 9.248199
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:27:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde0bad5ebf0ddb65e69a"
+  },
+  "country": "de",
+  "id": "4267c196-eea1-47be-96b7-d790b2fbd17a",
+  "name": "Shell Stuttgart Epplestr. 90-96",
+  "brand": "Shell",
+  "street": "Epplestr. 90-96",
+  "postalCode": "70597",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 8.37,
+  "volatility": 179,
+  "coords": {
+    "lat": 48.74102,
+    "lng": 9.169032
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:27:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde0dad5ebf0ddb65e69b"
+  },
+  "country": "de",
+  "id": "4beabb59-8c4c-4552-a2d3-a98c3fae00f1",
+  "name": "Shell Neckartailfingen Tuebinger Str.",
+  "brand": "Shell",
+  "street": "Tuebinger Str. ",
+  "postalCode": "72666",
+  "place": "Neckartailfingen",
+  "isOpen": true,
+  "dist": 21.56,
+  "volatility": 119,
+  "coords": {
+    "lat": 48.606496,
+    "lng": 9.257572
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde0ead5ebf0ddb65e69c"
+  },
+  "country": "de",
+  "id": "4c129f98-662b-439c-98b8-a18e3c678352",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Marbacher Straße 21",
+  "postalCode": "71729",
+  "place": "Erdmannhausen",
+  "isOpen": true,
+  "dist": 16.21,
+  "volatility": 178,
+  "coords": {
+    "lat": 48.94189,
+    "lng": 9.291132
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.679,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde10ad5ebf0ddb65e69d"
+  },
+  "country": "de",
+  "id": "4edad630-ce1c-4e9f-b1b0-63de6ef5a960",
+  "name": "ENI",
+  "brand": "AGIP ENI",
+  "street": "Stuttgarter Strasse 146",
+  "postalCode": "71522",
+  "place": "Backnang",
+  "isOpen": true,
+  "dist": 20.86,
+  "volatility": 179,
+  "coords": {
+    "lat": 48.93528,
+    "lng": 9.43749
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde11ad5ebf0ddb65e69e"
+  },
+  "country": "de",
+  "id": "4f4eadab-2845-4504-8acc-50a19bec8583",
+  "name": "Shell Stuttgart Rosenbergplatz 7",
+  "brand": "Shell",
+  "street": "Rosenbergplatz 7",
+  "postalCode": "70193",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 6.63,
+  "volatility": 212,
+  "coords": {
+    "lat": 48.778509,
+    "lng": 9.155544
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde13ad5ebf0ddb65e69f"
+  },
+  "country": "de",
+  "id": "51be9ed6-45e7-4c20-a98d-09e91774185b",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Hohberger Straße 19",
+  "postalCode": "71106",
+  "place": "Magstadt",
+  "isOpen": false,
+  "dist": 21.19,
+  "volatility": 192,
+  "coords": {
+    "lat": 48.7386,
+    "lng": 8.966261
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde14ad5ebf0ddb65e6a0"
+  },
+  "country": "de",
+  "id": "51d4b420-a095-1aa0-e100-80009459e03a",
+  "name": "JET LEINFELDEN-ECHTERDINGEN HAUPTSTR. 135",
+  "brand": "JET",
+  "street": "HAUPTSTR. 135",
+  "postalCode": "70771",
+  "place": "LEINFELDEN-ECHTERDINGEN",
+  "isOpen": true,
+  "dist": 12.98,
+  "volatility": 198,
+  "coords": {
+    "lat": 48.69365,
+    "lng": 9.16715
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde16ad5ebf0ddb65e6a1"
+  },
+  "country": "de",
+  "id": "51d4b4ec-a095-1aa0-e100-80009459e03a",
+  "name": "JET FELLBACH SCHORNDORFER STR. 37",
+  "brand": "JET",
+  "street": "SCHORNDORFER STR. 37",
+  "postalCode": "70736",
+  "place": "FELLBACH",
+  "isOpen": true,
+  "dist": 3.41,
+  "volatility": 199,
+  "coords": {
+    "lat": 48.81559,
+    "lng": 9.28009
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde17ad5ebf0ddb65e6a2"
+  },
+  "country": "de",
+  "id": "51d4b4ed-a095-1aa0-e100-80009459e03a",
+  "name": "JET STUTTGART ROTWEG 15",
+  "brand": "JET",
+  "street": "ROTWEG 15",
+  "postalCode": "70437",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 5.76,
+  "volatility": 216,
+  "coords": {
+    "lat": 48.8339,
+    "lng": 9.18044
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde19ad5ebf0ddb65e6a3"
+  },
+  "country": "de",
+  "id": "51d4b537-a095-1aa0-e100-80009459e03a",
+  "name": "JET LUDWIGSBURG STEINBEISSTR. 12",
+  "brand": "JET",
+  "street": "STEINBEISSTR. 12",
+  "postalCode": "71636",
+  "place": "LUDWIGSBURG",
+  "isOpen": true,
+  "dist": 11.16,
+  "volatility": 283,
+  "coords": {
+    "lat": 48.88801,
+    "lng": 9.16659
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:00:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde1bad5ebf0ddb65e6a4"
+  },
+  "country": "de",
+  "id": "51d4b5fa-a095-1aa0-e100-80009459e03a",
+  "name": "Supermarkt-Tankstelle KORNTAL-MUENCHINGEN MOTORSTR. 16-18",
+  "brand": "Supermarkt-Tankstelle",
+  "street": "MOTORSTR. 16-18",
+  "postalCode": "70825",
+  "place": "KORNTAL-MUENCHINGEN",
+  "isOpen": true,
+  "dist": 10.1,
+  "volatility": 157,
+  "coords": {
+    "lat": 48.8279,
+    "lng": 9.10868
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:03:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde1dad5ebf0ddb65e6a5"
+  },
+  "country": "de",
+  "id": "51d4b68e-a095-1aa0-e100-80009459e03a",
+  "name": "JET STUTTGART INDUSTRIESTR. 38",
+  "brand": "JET",
+  "street": "INDUSTRIESTR. 38",
+  "postalCode": "70565",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 12.21,
+  "volatility": 308,
+  "coords": {
+    "lat": 48.72421,
+    "lng": 9.11947
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.859,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:52:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde1ead5ebf0ddb65e6a6"
+  },
+  "country": "de",
+  "id": "51d4b6b5-a095-1aa0-e100-80009459e03a",
+  "name": "JET BOEBLINGEN TUEBINGER STR. 61",
+  "brand": "JET",
+  "street": "TUEBINGER STR. 61",
+  "postalCode": "71032",
+  "place": "BOEBLINGEN",
+  "isOpen": true,
+  "dist": 21.54,
+  "volatility": 161,
+  "coords": {
+    "lat": 48.6787,
+    "lng": 9.01096
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:52:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde20ad5ebf0ddb65e6a7"
+  },
+  "country": "de",
+  "id": "51d4b6b7-a095-1aa0-e100-80009459e03a",
+  "name": "JET STUTTGART NEUHAUSER STR. 54",
+  "brand": "JET",
+  "street": "NEUHAUSER STR. 54",
+  "postalCode": "70599",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 11.44,
+  "volatility": 175,
+  "coords": {
+    "lat": 48.6979,
+    "lng": 9.22086
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde21ad5ebf0ddb65e6a8"
+  },
+  "country": "de",
+  "id": "522481a2-4f3c-4065-97a1-4e863a6f198c",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "GLEMSECKSTR. 63 ",
+  "postalCode": "71229",
+  "place": "LEONBERG",
+  "isOpen": true,
+  "dist": 16.29,
+  "volatility": 282,
+  "coords": {
+    "lat": 48.785359,
+    "lng": 9.01871
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde23ad5ebf0ddb65e6a9"
+  },
+  "country": "de",
+  "id": "533b4485-211c-1a10-e100-80009459e03c",
+  "name": "JET SACHSENHEIM LUDWIGSBURGER STR. 99",
+  "brand": "JET",
+  "street": "LUDWIGSBURGER STR. 99",
+  "postalCode": "74343",
+  "place": "SACHSENHEIM",
+  "isOpen": true,
+  "dist": 20.86,
+  "volatility": 163,
+  "coords": {
+    "lat": 48.95682,
+    "lng": 9.08355
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.05,
+    "timestamp": "2023-06-17T16:01:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde24ad5ebf0ddb65e6aa"
+  },
+  "country": "de",
+  "id": "537f855e-95d6-4b71-9d95-9a08bea10874",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "PLOCHINGER STR. 64 ",
+  "postalCode": "73730",
+  "place": "ESSLINGEN",
+  "isOpen": false,
+  "dist": 9.67,
+  "volatility": 181,
+  "coords": {
+    "lat": 48.73338,
+    "lng": 9.324718
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.669,
+  "lastChange": {
+    "amount": -0.05,
+    "timestamp": "2023-06-17T16:06:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde26ad5ebf0ddb65e6ab"
+  },
+  "country": "de",
+  "id": "577e25a4-2b13-41e5-9322-82389ed2841a",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "WINNENDER STR. 34 ",
+  "postalCode": "71334",
+  "place": "WAIBLINGEN",
+  "isOpen": true,
+  "dist": 7.1,
+  "volatility": 248,
+  "coords": {
+    "lat": 48.832769,
+    "lng": 9.323162
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:03:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde27ad5ebf0ddb65e6ac"
+  },
+  "country": "de",
+  "id": "5893f4b7-cccb-4223-9986-564208ec1137",
+  "name": "Shell Stuttgart Obere Weinsteige 41",
+  "brand": "Shell",
+  "street": "Obere Weinsteige 41",
+  "postalCode": "70597",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 7.16,
+  "volatility": 184,
+  "coords": {
+    "lat": 48.753687,
+    "lng": 9.17213
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:03:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde29ad5ebf0ddb65e6ad"
+  },
+  "country": "de",
+  "id": "5c63b4f0-1a6b-4a73-b7dc-c125c6cd3d66",
+  "name": "Shell Stuttgart Burgstallstr. 122",
+  "brand": "Shell",
+  "street": "Burgstallstr. 122",
+  "postalCode": "70199",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 8.72,
+  "volatility": 227,
+  "coords": {
+    "lat": 48.755543,
+    "lng": 9.142012
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde2aad5ebf0ddb65e6ae"
+  },
+  "country": "de",
+  "id": "5cfaaad2-d3bb-4661-9e7f-2f821f4e50f6",
+  "name": "Shell Stuttgart Benzenäcker Str. 2",
+  "brand": "Shell",
+  "street": "Benzenäcker Str. 2",
+  "postalCode": "70378",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.68,
+  "volatility": 207,
+  "coords": {
+    "lat": 48.830785,
+    "lng": 9.221513
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde2cad5ebf0ddb65e6af"
+  },
+  "country": "de",
+  "id": "5eca9233-2c7c-43f3-8ce6-6cf9eea27a9f",
+  "name": "Shell Rutesheim Leonberger Str. 56",
+  "brand": "Shell",
+  "street": "Leonberger Str. 56",
+  "postalCode": "71277",
+  "place": "Rutesheim",
+  "isOpen": true,
+  "dist": 21.04,
+  "volatility": 206,
+  "coords": {
+    "lat": 48.806682,
+    "lng": 8.952925
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde2dad5ebf0ddb65e6b0"
+  },
+  "country": "de",
+  "id": "60a3b2b2-1491-4412-9bbc-aefde4adac2b",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Robert-Bosch-Straße 9-11",
+  "postalCode": "72622",
+  "place": "Nürtingen",
+  "isOpen": true,
+  "dist": 21.57,
+  "volatility": 152,
+  "coords": {
+    "lat": 48.61564,
+    "lng": 9.331526
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde2fad5ebf0ddb65e6b1"
+  },
+  "country": "de",
+  "id": "619a34c3-c2f4-4dbd-9157-5966afb9aed8",
+  "name": "Miedtank Autopark GmbH",
+  "brand": "Freie Tankstelle",
+  "street": "Handwerkstrasse 35",
+  "postalCode": "70565",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 12.3,
+  "volatility": 201,
+  "coords": {
+    "lat": 48.719587,
+    "lng": 9.124684
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde30ad5ebf0ddb65e6b2"
+  },
+  "country": "de",
+  "id": "62bc51b9-b69e-41a5-a68f-35feab4d60a1",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Waiblinger Straße 23-25",
+  "postalCode": "70372",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 1.52,
+  "volatility": 183,
+  "coords": {
+    "lat": 48.8043442,
+    "lng": 9.220273
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde32ad5ebf0ddb65e6b3"
+  },
+  "country": "de",
+  "id": "64d9e72f-6327-4257-98bd-d0fbe75d4eee",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Stuttgarter Straße 85",
+  "postalCode": "73061",
+  "place": "Ebersbach a. d. Fils",
+  "isOpen": true,
+  "dist": 22.21,
+  "volatility": 187,
+  "coords": {
+    "lat": 48.7137,
+    "lng": 9.513178
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:41:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde33ad5ebf0ddb65e6b4"
+  },
+  "country": "de",
+  "id": "6587d08a-538c-4205-ac7f-7156d70dc1e6",
+  "name": "STUTTGART - NUERNBERGER STR.",
+  "brand": "AGIP ENI",
+  "street": "Nuernberger Strasse 18",
+  "postalCode": "70374",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 0.81,
+  "volatility": 207,
+  "coords": {
+    "lat": 48.80584,
+    "lng": 9.23343
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:41:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde35ad5ebf0ddb65e6b5"
+  },
+  "country": "de",
+  "id": "686c0d50-723c-45a7-bbdb-388599930aa1",
+  "name": "Shell Stuttgart Neckartalstr. 300",
+  "brand": "Shell",
+  "street": "Neckartalstr. 300",
+  "postalCode": "70376",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 2.33,
+  "volatility": 207,
+  "coords": {
+    "lat": 48.81908,
+    "lng": 9.22685
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:07:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde36ad5ebf0ddb65e6b6"
+  },
+  "country": "de",
+  "id": "68c8cfeb-3690-4f4c-b0d6-b2ef47e38337",
+  "name": "WINNENDEN - WAIBLINGER STRASSE 67",
+  "brand": "AGIP ENI",
+  "street": "Waiblinger Strasse 67",
+  "postalCode": "71364",
+  "place": "Winnenden",
+  "isOpen": true,
+  "dist": 13.6,
+  "volatility": 170,
+  "coords": {
+    "lat": 48.8732,
+    "lng": 9.38895
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:07:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde38ad5ebf0ddb65e6b7"
+  },
+  "country": "de",
+  "id": "69a2e71a-2397-4646-b8f8-0c239e6903de",
+  "name": "TotalEnergies KÃ¤rcher",
+  "brand": "TotalEnergies",
+  "street": "B14 / Marbacher Str. ",
+  "postalCode": "71364",
+  "place": "Winnenden",
+  "isOpen": true,
+  "dist": 14.12,
+  "volatility": 137,
+  "coords": {
+    "lat": 48.882447,
+    "lng": 9.38669
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:04:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde39ad5ebf0ddb65e6b8"
+  },
+  "country": "de",
+  "id": "69aedff6-8ac7-4ea4-5123-dec637808d80",
+  "name": "Autohaus Schopp",
+  "brand": "freie Tankstelle",
+  "street": "Einsiedelstr. 23",
+  "postalCode": "72135",
+  "place": "Dettenhausen",
+  "isOpen": true,
+  "dist": 24.4,
+  "volatility": 26,
+  "coords": {
+    "lat": 48.600501,
+    "lng": 9.101461
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:04:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde3bad5ebf0ddb65e6b9"
+  },
+  "country": "de",
+  "id": "6b56ceb0-1fc4-46b6-b5db-385d52f5018d",
+  "name": "Shell Aspach Siemensstr. 15",
+  "brand": "Shell",
+  "street": "Siemensstr. 15",
+  "postalCode": "71546",
+  "place": "Aspach",
+  "isOpen": true,
+  "dist": 21.9,
+  "volatility": 202,
+  "coords": {
+    "lat": 48.97163,
+    "lng": 9.386886
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.02,
+    "timestamp": "2023-06-17T18:04:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde3cad5ebf0ddb65e6ba"
+  },
+  "country": "de",
+  "id": "6b6ce7f0-bc83-4514-9422-fc8dd7fd96e7",
+  "name": "TotalEnergies Ludwigsburg",
+  "brand": "TotalEnergies",
+  "street": "Martin-Luther-Str. 11",
+  "postalCode": "71636",
+  "place": "Ludwigsburg",
+  "isOpen": true,
+  "dist": 11.55,
+  "volatility": 200,
+  "coords": {
+    "lat": 48.896111,
+    "lng": 9.18
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": 0.02,
+    "timestamp": "2023-06-17T18:04:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde3ead5ebf0ddb65e6bb"
+  },
+  "country": "de",
+  "id": "6ee8b57b-cb9c-4414-be27-06204e0a89cc",
+  "name": "Sprint",
+  "brand": "Sprint",
+  "street": "Rotweg 28-32",
+  "postalCode": "70437",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 5.63,
+  "volatility": 203,
+  "coords": {
+    "lat": 48.8337326,
+    "lng": 9.182566
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde3fad5ebf0ddb65e6bc"
+  },
+  "country": "de",
+  "id": "709bae97-eac8-44e3-8902-7ce6abb2ccc9",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Nürtinger Straße 49",
+  "postalCode": "72649",
+  "place": "Wolfschlugen",
+  "isOpen": true,
+  "dist": 17.05,
+  "volatility": 163,
+  "coords": {
+    "lat": 48.6511574,
+    "lng": 9.295594
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde41ad5ebf0ddb65e6bd"
+  },
+  "country": "de",
+  "id": "7230f70a-c543-4227-aad3-e809b99ffd7b",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "ROTENWALDSTR. 146 ",
+  "postalCode": "70197",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 7.67,
+  "volatility": 266,
+  "coords": {
+    "lat": 48.767455,
+    "lng": 9.147679
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.809,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde42ad5ebf0ddb65e6be"
+  },
+  "country": "de",
+  "id": "728344c8-f3fe-4c80-9865-cd7a256415fc",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Herrenberger Straße 50",
+  "postalCode": "71034",
+  "place": "Böblingen",
+  "isOpen": true,
+  "dist": 21.79,
+  "volatility": 203,
+  "coords": {
+    "lat": 48.68303,
+    "lng": 9.001526
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde44ad5ebf0ddb65e6bf"
+  },
+  "country": "de",
+  "id": "73bbaa98-f627-460c-ac0e-20a8fd4cd37c",
+  "name": "Shell Sindelfingen Berliner Str. 18",
+  "brand": "Shell",
+  "street": "Berliner Str. 18",
+  "postalCode": "71069",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 22.1,
+  "volatility": 178,
+  "coords": {
+    "lat": 48.71832,
+    "lng": 8.965096
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde46ad5ebf0ddb65e6c0"
+  },
+  "country": "de",
+  "id": "74c9de31-894c-4112-4902-8d890495f073",
+  "name": "MTS Waschpark",
+  "brand": "SB Tankstelle",
+  "street": "Weilstrasse 105",
+  "postalCode": "73734",
+  "place": "Esslingen",
+  "isOpen": true,
+  "dist": 7.99,
+  "volatility": 23,
+  "coords": {
+    "lat": 48.735304,
+    "lng": 9.287473
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde48ad5ebf0ddb65e6c1"
+  },
+  "country": "de",
+  "id": "7784ef59-0cbd-4c6f-bedc-941f9d196116",
+  "name": "LUDWIGSBURG - FRIESENSTRASSE 38",
+  "brand": "AGIP ENI",
+  "street": "Friesenstrasse 38",
+  "postalCode": "71640",
+  "place": "Ludwigsburg",
+  "isOpen": true,
+  "dist": 10.44,
+  "volatility": 241,
+  "coords": {
+    "lat": 48.89322,
+    "lng": 9.2233
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde49ad5ebf0ddb65e6c2"
+  },
+  "country": "de",
+  "id": "79a9a545-2ed5-4eeb-815b-c474b40d3612",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Im langen Feld 17",
+  "postalCode": "71711",
+  "place": "Murr",
+  "isOpen": true,
+  "dist": 17.47,
+  "volatility": 188,
+  "coords": {
+    "lat": 48.95713,
+    "lng": 9.243526
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde4bad5ebf0ddb65e6c3"
+  },
+  "country": "de",
+  "id": "7c535888-afbf-4b9d-9e4b-99d5468cc6f5",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Blumenstraße 39",
+  "postalCode": "71106",
+  "place": "Magstadt",
+  "isOpen": false,
+  "dist": 20.63,
+  "volatility": 195,
+  "coords": {
+    "lat": 48.7448273,
+    "lng": 8.971171
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:10:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde4cad5ebf0ddb65e6c4"
+  },
+  "country": "de",
+  "id": "7fdcb571-02d2-4e9a-9873-08b5262d4e7b",
+  "name": "AVIA Botnang",
+  "brand": "AVIA",
+  "street": "Regerstraße 45",
+  "postalCode": "70195",
+  "place": "Stuttgart",
+  "isOpen": false,
+  "dist": 8.31,
+  "volatility": 221,
+  "coords": {
+    "lat": 48.77969,
+    "lng": 9.13077
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:10:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde4ead5ebf0ddb65e6c5"
+  },
+  "country": "de",
+  "id": "81b7d3b6-ac85-4be6-8675-1a25b40e9245",
+  "name": "Shell Wendlingen Am Neckar Heinrich-Otto-Str. 2",
+  "brand": "Shell",
+  "street": "Heinrich-Otto-Str. 2",
+  "postalCode": "73240",
+  "place": "Wendlingen Am Neckar",
+  "isOpen": true,
+  "dist": 16.98,
+  "volatility": 153,
+  "coords": {
+    "lat": 48.674388,
+    "lng": 9.371758
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde4fad5ebf0ddb65e6c6"
+  },
+  "country": "de",
+  "id": "81c9bf5d-9857-4b67-9d40-0f9eb94aef9d",
+  "name": "Shell Böblingen Wolfgang-Brumme-Allee 22",
+  "brand": "Shell",
+  "street": "Wolfgang-Brumme-Allee 22",
+  "postalCode": "71034",
+  "place": "Böblingen",
+  "isOpen": true,
+  "dist": 21.03,
+  "volatility": 146,
+  "coords": {
+    "lat": 48.688035,
+    "lng": 9.008868
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde51ad5ebf0ddb65e6c7"
+  },
+  "country": "de",
+  "id": "829fb20d-0986-4579-bda5-5b9dab3613cf",
+  "name": "Shell Leinfelden-Echterdingen Tuebinger Str. 27",
+  "brand": "Shell",
+  "street": "Tuebinger Str. 27",
+  "postalCode": "70771",
+  "place": "Leinfelden-Echterdingen",
+  "isOpen": true,
+  "dist": 14.12,
+  "volatility": 195,
+  "coords": {
+    "lat": 48.683633,
+    "lng": 9.163
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde52ad5ebf0ddb65e6c8"
+  },
+  "country": "de",
+  "id": "83777e49-89bd-48bd-b197-71be1d9b2aaa",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Stettener Straße 112",
+  "postalCode": "73732",
+  "place": "Esslingen-Wäldenbron",
+  "isOpen": true,
+  "dist": 7.25,
+  "volatility": 141,
+  "coords": {
+    "lat": 48.7594,
+    "lng": 9.317381
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:30:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde54ad5ebf0ddb65e6c9"
+  },
+  "country": "de",
+  "id": "83e67b5f-c183-4a06-9a5a-867dfc061077",
+  "name": "Shell Korntal Muenchingen Zuffenhauser Str. 49",
+  "brand": "Shell",
+  "street": "Zuffenhauser Str. 49",
+  "postalCode": "70825",
+  "place": "Korntal Muenchingen",
+  "isOpen": true,
+  "dist": 8.77,
+  "volatility": 217,
+  "coords": {
+    "lat": 48.830249,
+    "lng": 9.129367
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:19:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde55ad5ebf0ddb65e6ca"
+  },
+  "country": "de",
+  "id": "83f831fe-41d6-4897-8d98-d2914a6a2afa",
+  "name": "BÖBLINGEN - SCHÖNBUCHSTR.",
+  "brand": "AGIP ENI",
+  "street": "Schönbuchstr. 40",
+  "postalCode": "71032",
+  "place": "Böblingen",
+  "isOpen": true,
+  "dist": 21.79,
+  "volatility": 155,
+  "coords": {
+    "lat": 48.67316,
+    "lng": 9.01353
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:19:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde57ad5ebf0ddb65e6cb"
+  },
+  "country": "de",
+  "id": "84b22247-3390-4e2e-9be5-ef6d7aa27d80",
+  "name": "TotalEnergies Stuttgart",
+  "brand": "TotalEnergies",
+  "street": "Ulmer Str. 206",
+  "postalCode": "70188",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 2.39,
+  "volatility": 167,
+  "coords": {
+    "lat": 48.779397,
+    "lng": 9.230689
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.77,
+  "lastChange": {
+    "amount": -0.289,
+    "timestamp": "2023-06-08T22:45:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde58ad5ebf0ddb65e6cc"
+  },
+  "country": "de",
+  "id": "855e5469-1572-4e20-a984-c351cca5d2b5",
+  "name": "AVIA Xpress Automatenstation Stuttgart-Wangen",
+  "brand": "AVIA Xpress",
+  "street": "Neckarwiesenstr. 7",
+  "postalCode": "70188",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 2.2,
+  "volatility": 182,
+  "coords": {
+    "lat": 48.7815,
+    "lng": 9.2292
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.75,
+  "lastChange": {
+    "amount": -0.289,
+    "timestamp": "2023-06-08T22:45:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde5aad5ebf0ddb65e6cd"
+  },
+  "country": "de",
+  "id": "87e9a7d2-b232-42b7-b522-c870e0f6d09c",
+  "name": "Hoffmann Tankstelle",
+  "brand": "Hoffmann Tankstellen",
+  "street": "Heilbronner Straße 22-24",
+  "postalCode": "71634",
+  "place": "Ludwigsburg",
+  "isOpen": true,
+  "dist": 11.95,
+  "volatility": 290,
+  "coords": {
+    "lat": 48.90242,
+    "lng": 9.19041
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde5bad5ebf0ddb65e6ce"
+  },
+  "country": "de",
+  "id": "8a397a59-a47f-4d11-a811-deba467f15cc",
+  "name": "AVIA Weissach",
+  "brand": "AVIA",
+  "street": "Bahnhofstr. 33",
+  "postalCode": "71287",
+  "place": "Weissach",
+  "isOpen": true,
+  "dist": 23.13,
+  "volatility": 255,
+  "coords": {
+    "lat": 48.8468,
+    "lng": 8.9322
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde5dad5ebf0ddb65e6cf"
+  },
+  "country": "de",
+  "id": "8d66b8be-5037-4822-8ab4-1aa7b3b8a657",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "BONLAENDER HAUPTSTR. 132 ",
+  "postalCode": "70794",
+  "place": "FILDERSTADT",
+  "isOpen": true,
+  "dist": 15.63,
+  "volatility": 258,
+  "coords": {
+    "lat": 48.659946,
+    "lng": 9.221958
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:02:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde5dad5ebf0ddb65e6d0"
+  },
+  "country": "de",
+  "id": "8f107dcd-3eb9-45dc-9191-85a8ac9d9d5c",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "UNTERBOIHINGER STR. 62 ",
+  "postalCode": "72644",
+  "place": "OBERBOIHINGEN",
+  "isOpen": true,
+  "dist": 18.7,
+  "volatility": 185,
+  "coords": {
+    "lat": 48.653969,
+    "lng": 9.36638
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:02:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde5fad5ebf0ddb65e6d1"
+  },
+  "country": "de",
+  "id": "8fe71412-1d80-4e4a-ad50-54a6c7081301",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Heinrich-Lanz-Straße 1",
+  "postalCode": "70825",
+  "place": "Korntal-Münchingen",
+  "isOpen": true,
+  "dist": 11.34,
+  "volatility": 213,
+  "coords": {
+    "lat": 48.85059,
+    "lng": 9.105471
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:16:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde60ad5ebf0ddb65e6d2"
+  },
+  "country": "de",
+  "id": "92151bf1-d543-4e8b-b3fd-e5eb9f531dca",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Schillerstraße 47",
+  "postalCode": "71336",
+  "place": "Waiblingen-Bittenfeld",
+  "isOpen": true,
+  "dist": 11.15,
+  "volatility": 281,
+  "coords": {
+    "lat": 48.88794,
+    "lng": 9.313119
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:16:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde62ad5ebf0ddb65e6d3"
+  },
+  "country": "de",
+  "id": "93b1876f-cee8-4187-a4d4-b5b000e2bf41",
+  "name": "OMV Tankstelle",
+  "brand": "OMV",
+  "street": "Flughafenstr. 70 ",
+  "postalCode": "70629",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 12.3,
+  "volatility": 181,
+  "coords": {
+    "lat": 48.69277,
+    "lng": 9.19899
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.879,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T12:02:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde63ad5ebf0ddb65e6d4"
+  },
+  "country": "de",
+  "id": "93d1a836-ec60-4bca-b313-d0e9cf1e5411",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Robert-Bosch-Straße 10",
+  "postalCode": "71701",
+  "place": "Schwieberdingen",
+  "isOpen": true,
+  "dist": 14.88,
+  "volatility": 210,
+  "coords": {
+    "lat": 48.8819,
+    "lng": 9.079281
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T12:02:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde65ad5ebf0ddb65e6d5"
+  },
+  "country": "de",
+  "id": "94cd4866-cc84-4918-acf1-a480ab89a28f",
+  "name": "TotalEnergies Koengen",
+  "brand": "TotalEnergies",
+  "street": "Bahnhofstr. 23",
+  "postalCode": "73257",
+  "place": "Koengen",
+  "isOpen": true,
+  "dist": 16.51,
+  "volatility": 138,
+  "coords": {
+    "lat": 48.677472,
+    "lng": 9.367057
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.879,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:01:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde66ad5ebf0ddb65e6d6"
+  },
+  "country": "de",
+  "id": "94f40322-c44c-49fc-a191-cfb01f42f250",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "MAX-EYTH-STR. 2 ",
+  "postalCode": "73249",
+  "place": "WERNAU",
+  "isOpen": true,
+  "dist": 18.77,
+  "volatility": 255,
+  "coords": {
+    "lat": 48.68327,
+    "lng": 9.424923
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:01:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde68ad5ebf0ddb65e6d7"
+  },
+  "country": "de",
+  "id": "95df8b68-45ea-40d0-ab1e-5e0d19800aad",
+  "name": "Minol Tanken",
+  "brand": "Freie",
+  "street": "Mundelsheimerstr. 34",
+  "postalCode": "74385",
+  "place": "Pleidelsheim",
+  "isOpen": true,
+  "dist": 18.44,
+  "volatility": 83,
+  "coords": {
+    "lat": 48.96424,
+    "lng": 9.20478
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde69ad5ebf0ddb65e6d8"
+  },
+  "country": "de",
+  "id": "961351cb-a3c3-4903-9a52-23a7c9be06f3",
+  "name": "T Stuttgart",
+  "brand": "T",
+  "street": "Seerosenstr. 48",
+  "postalCode": "70563",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 12.23,
+  "volatility": 208,
+  "coords": {
+    "lat": 48.733693,
+    "lng": 9.106895
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde6bad5ebf0ddb65e6d9"
+  },
+  "country": "de",
+  "id": "97f8611b-f888-45ed-a2d5-fdf1fed51814",
+  "name": "Shell Schorndorf Wieslauftalstr. 120",
+  "brand": "Shell",
+  "street": "Wieslauftalstr. 120",
+  "postalCode": "73614",
+  "place": "Schorndorf",
+  "isOpen": true,
+  "dist": 22.73,
+  "volatility": 197,
+  "coords": {
+    "lat": 48.823272,
+    "lng": 9.548352
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde6cad5ebf0ddb65e6da"
+  },
+  "country": "de",
+  "id": "991544dc-d3ba-4af4-8aac-763f1b652146",
+  "name": "Shell Benningen Beethovenstr. 60",
+  "brand": "Shell",
+  "street": "Beethovenstr. 60",
+  "postalCode": "71726",
+  "place": "Benningen",
+  "isOpen": true,
+  "dist": 15.57,
+  "volatility": 165,
+  "coords": {
+    "lat": 48.940065,
+    "lng": 9.238334
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:46:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde6ead5ebf0ddb65e6db"
+  },
+  "country": "de",
+  "id": "9b4032cb-63bd-4838-a2fa-ba6c5aaf4e4e",
+  "name": "Bft Leinfelden",
+  "brand": "BFT",
+  "street": "Meisenweg 8",
+  "postalCode": "70771",
+  "place": "Leinfelden",
+  "isOpen": true,
+  "dist": 12.65,
+  "volatility": 161,
+  "coords": {
+    "lat": 48.70548,
+    "lng": 9.143975
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde6fad5ebf0ddb65e6dc"
+  },
+  "country": "de",
+  "id": "9b8730a3-6cf7-4081-9a45-45e30076a9bd",
+  "name": "TotalEnergies Stuttgart",
+  "brand": "TotalEnergies",
+  "street": "Nuernberger Str. 9",
+  "postalCode": "70374",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 0.88,
+  "volatility": 152,
+  "coords": {
+    "lat": 48.806115,
+    "lng": 9.2324
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde72ad5ebf0ddb65e6dd"
+  },
+  "country": "de",
+  "id": "9df9a22f-07c9-4044-dc29-2ff2ffed7890",
+  "name": "Automeister Auto-Heidt",
+  "brand": "MTB Tankstelle Auto-Heidt",
+  "street": "Nürtinger Str. 90",
+  "postalCode": "72663",
+  "place": "Großbettlingen",
+  "isOpen": true,
+  "dist": 23.26,
+  "volatility": 4,
+  "coords": {
+    "lat": 48.596127,
+    "lng": 9.310732
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:09:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde73ad5ebf0ddb65e6de"
+  },
+  "country": "de",
+  "id": "9f783258-e896-4dfe-83f5-ae7f53a6097f",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Robert-Koch-Straße 64",
+  "postalCode": "70563",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 12.86,
+  "volatility": 226,
+  "coords": {
+    "lat": 48.7248764,
+    "lng": 9.10656
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T17:09:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde75ad5ebf0ddb65e6df"
+  },
+  "country": "de",
+  "id": "a4aabe50-3d3f-4bc1-8689-49f0c9a225c2",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Plieninger Straße 96",
+  "postalCode": "70567",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 10.36,
+  "volatility": 246,
+  "coords": {
+    "lat": 48.7232,
+    "lng": 9.159887
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:15:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde76ad5ebf0ddb65e6e0"
+  },
+  "country": "de",
+  "id": "a7187740-91db-4687-81d5-c9db4d5d250e",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Plieninger Straße 35",
+  "postalCode": "73765",
+  "place": "Neuhausen",
+  "isOpen": true,
+  "dist": 12.24,
+  "volatility": 148,
+  "coords": {
+    "lat": 48.69125,
+    "lng": 9.265736
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:11:05+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde78ad5ebf0ddb65e6e1"
+  },
+  "country": "de",
+  "id": "ab689d82-a00a-499d-aee8-1009d2fa7b74",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Lutzstraße 10",
+  "postalCode": "74354",
+  "place": "Besigheim",
+  "isOpen": true,
+  "dist": 22.84,
+  "volatility": 159,
+  "coords": {
+    "lat": 48.9951,
+    "lng": 9.142376
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde79ad5ebf0ddb65e6e2"
+  },
+  "country": "de",
+  "id": "ae1af3d8-574e-4018-8076-c2106eb70e4b",
+  "name": "Bavaria Petrol",
+  "brand": "Bavaria Petrol",
+  "street": "Tilsiter Straße 15",
+  "postalCode": "71065",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 18.8,
+  "volatility": 156,
+  "coords": {
+    "lat": 48.70316,
+    "lng": 9.029866
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde7bad5ebf0ddb65e6e3"
+  },
+  "country": "de",
+  "id": "b04f8d7c-a8cf-47f1-bd3f-c8274f072c95",
+  "name": "Shell Nuertingen Oberboihinger Str. 51",
+  "brand": "Shell",
+  "street": "Oberboihinger Str. 51",
+  "postalCode": "72622",
+  "place": "Nuertingen",
+  "isOpen": true,
+  "dist": 19.77,
+  "volatility": 119,
+  "coords": {
+    "lat": 48.636758,
+    "lng": 9.346773
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde7cad5ebf0ddb65e6e4"
+  },
+  "country": "de",
+  "id": "b0fe72c6-be6b-4849-bd2d-d1a1bf3b21d0",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Ulmer Straße 17",
+  "postalCode": "73207",
+  "place": "Plochingen",
+  "isOpen": true,
+  "dist": 17.04,
+  "volatility": 198,
+  "coords": {
+    "lat": 48.70636,
+    "lng": 9.42393
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde7ead5ebf0ddb65e6e5"
+  },
+  "country": "de",
+  "id": "b205b699-e541-44ad-ba20-b269dbd6cccf",
+  "name": "SINDELFINGEN - H.-M.-SCHLEYER STR.",
+  "brand": "AGIP ENI",
+  "street": "H.-M.-Schleyer Str. 1",
+  "postalCode": "71063",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 20.5,
+  "volatility": 155,
+  "coords": {
+    "lat": 48.703496208396,
+    "lng": 9.001714215166
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T17:52:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde7fad5ebf0ddb65e6e6"
+  },
+  "country": "de",
+  "id": "b26e5d85-4b8f-4785-9c5b-063cff5dcc46",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "DEIZISAUER STR. 24 ",
+  "postalCode": "73770",
+  "place": "DENKENDORF",
+  "isOpen": true,
+  "dist": 13.4,
+  "volatility": 220,
+  "coords": {
+    "lat": 48.694185,
+    "lng": 9.327501
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T17:52:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde81ad5ebf0ddb65e6e7"
+  },
+  "country": "de",
+  "id": "b31ab64a-8818-4478-9276-fd60f97b4e6e",
+  "name": "Mtb-Tankstelle Ford-Stauch Filderstadt",
+  "brand": "Mtb - Filderstadt  Ford-Stauch",
+  "street": "Möhringer Straße 22 ",
+  "postalCode": "70794",
+  "place": "Filderstadt",
+  "isOpen": false,
+  "dist": 13.78,
+  "volatility": 75,
+  "coords": {
+    "lat": 48.676120758057,
+    "lng": 9.2357196807861
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde82ad5ebf0ddb65e6e8"
+  },
+  "country": "de",
+  "id": "b52168ad-38e0-4f72-900e-7ab6e96cc1be",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Rosensteinstraße 1",
+  "postalCode": "70806",
+  "place": "Kornwestheim",
+  "isOpen": true,
+  "dist": 7.42,
+  "volatility": 222,
+  "coords": {
+    "lat": 48.8563,
+    "lng": 9.185561
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde84ad5ebf0ddb65e6e9"
+  },
+  "country": "de",
+  "id": "b7736714-4f83-4088-b51b-66cf72fdcb29",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Manfred-von-Ardenne-Allee 2",
+  "postalCode": "71522",
+  "place": "Backnang",
+  "isOpen": true,
+  "dist": 22.2,
+  "volatility": 149,
+  "coords": {
+    "lat": 48.95921,
+    "lng": 9.423126
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T17:34:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde85ad5ebf0ddb65e6ea"
+  },
+  "country": "de",
+  "id": "b8ee9795-94a5-468e-9f75-d9cfb18783c3",
+  "name": "Shell Reichenbach Stuttgarter Str. 84",
+  "brand": "Shell",
+  "street": "Stuttgarter Str. 84",
+  "postalCode": "73262",
+  "place": "Reichenbach",
+  "isOpen": true,
+  "dist": 18.67,
+  "volatility": 169,
+  "coords": {
+    "lat": 48.707949,
+    "lng": 9.452944
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.04,
+    "timestamp": "2023-06-17T17:34:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde87ad5ebf0ddb65e6eb"
+  },
+  "country": "de",
+  "id": "bf4b6139-f015-41fb-aa97-2c0d0a695f73",
+  "name": "TotalEnergies Denkendorf Nord",
+  "brand": "TotalEnergies",
+  "street": "BAB A8 Denkendorf Nord ",
+  "postalCode": "73770",
+  "place": "Denkendorf",
+  "isOpen": true,
+  "dist": 12.82,
+  "volatility": 1,
+  "coords": {
+    "lat": 48.692904,
+    "lng": 9.30493
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:21:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde88ad5ebf0ddb65e6ec"
+  },
+  "country": "de",
+  "id": "bf57be35-c661-40ec-8fff-9e1fc88e49ef",
+  "name": "Auto Nitschke",
+  "brand": "Freie Tankstelle",
+  "street": "Fritz-Mueller-Allee 2",
+  "postalCode": "71409",
+  "place": "Schwaikheim",
+  "isOpen": false,
+  "dist": 11.28,
+  "volatility": 35,
+  "coords": {
+    "lat": 48.8686,
+    "lng": 9.3536
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:21:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde8aad5ebf0ddb65e6ed"
+  },
+  "country": "de",
+  "id": "c2645244-a038-4974-ac3b-cfc6788fadc0",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Wieslauftalstraße 72",
+  "postalCode": "73614",
+  "place": "Schorndorf",
+  "isOpen": false,
+  "dist": 22.89,
+  "volatility": 166,
+  "coords": {
+    "lat": 48.8269958,
+    "lng": 9.549957
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.849,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde8bad5ebf0ddb65e6ee"
+  },
+  "country": "de",
+  "id": "c297ccde-feb2-4a70-bfec-89af257a251e",
+  "name": "MTB Tankstelle",
+  "brand": "MTB",
+  "street": "Wiesenstraße 2",
+  "postalCode": "71364",
+  "place": "Winnenden",
+  "isOpen": true,
+  "dist": 14.59,
+  "volatility": 145,
+  "coords": {
+    "lat": 48.8774198,
+    "lng": 9.4009258
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde8dad5ebf0ddb65e6ef"
+  },
+  "country": "de",
+  "id": "c3e9d4d3-ca90-4d09-9641-f1b880bf590a",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Gotthilf-Bayh-Straße 17",
+  "postalCode": "70736",
+  "place": "Fellbach",
+  "isOpen": true,
+  "dist": 3.81,
+  "volatility": 215,
+  "coords": {
+    "lat": 48.831349300458,
+    "lng": 9.2608534981476
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:21:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde8ead5ebf0ddb65e6f0"
+  },
+  "country": "de",
+  "id": "c45a2d79-ad33-4e2e-abb7-bebf173f4f31",
+  "name": "BIETIGHEIM-BISSINGEN - GROSSINGERSH",
+  "brand": "AGIP ENI",
+  "street": "Grossingersheimer Str. 5",
+  "postalCode": "74321",
+  "place": "Bietigheim-Bissingen",
+  "isOpen": true,
+  "dist": 19.34,
+  "volatility": 224,
+  "coords": {
+    "lat": 48.959153070715,
+    "lng": 9.133434737418
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:21:07+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde90ad5ebf0ddb65e6f1"
+  },
+  "country": "de",
+  "id": "c705d653-39b3-4bd9-9cd5-6b51366e88e9",
+  "name": "Shell Ludwigsburg Stuttgarter Str. 70",
+  "brand": "Shell",
+  "street": "Stuttgarter Str. 70",
+  "postalCode": "71638",
+  "place": "Ludwigsburg",
+  "isOpen": true,
+  "dist": 10.37,
+  "volatility": 216,
+  "coords": {
+    "lat": 48.888161,
+    "lng": 9.193774
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:44:14+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde91ad5ebf0ddb65e6f2"
+  },
+  "country": "de",
+  "id": "c7b99d08-912c-48e1-9ee4-a36edc9c96fa",
+  "name": "Shell Stuttgart Feuerbacher-Tal-Str. 64",
+  "brand": "Shell",
+  "street": "Feuerbacher-Tal-Str. 64",
+  "postalCode": "70469",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 6.25,
+  "volatility": 185,
+  "coords": {
+    "lat": 48.804241,
+    "lng": 9.154949
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:44:14+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde93ad5ebf0ddb65e6f3"
+  },
+  "country": "de",
+  "id": "c8adb04e-2c8d-4726-9c3b-11d7054c5f45",
+  "name": "OMV Tankstelle",
+  "brand": "OMV",
+  "street": "Brüdener Str. 16 ",
+  "postalCode": "71554",
+  "place": "Weissach im Tal",
+  "isOpen": true,
+  "dist": 22.82,
+  "volatility": 216,
+  "coords": {
+    "lat": 48.9303,
+    "lng": 9.4811
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.839,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:09:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde94ad5ebf0ddb65e6f4"
+  },
+  "country": "de",
+  "id": "cabdf6c7-2d99-4dac-87d5-30ff0800704c",
+  "name": "OMV Tankstelle",
+  "brand": "OMV",
+  "street": "Stuttgarter Str. 54 ",
+  "postalCode": "72141",
+  "place": "Walddorfhäslach",
+  "isOpen": true,
+  "dist": 23.8,
+  "volatility": 151,
+  "coords": {
+    "lat": 48.58838,
+    "lng": 9.19151
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:09:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde96ad5ebf0ddb65e6f5"
+  },
+  "country": "de",
+  "id": "cb1f0588-d517-40f0-8ce3-3edadebea40d",
+  "name": "OMV Tankstelle",
+  "brand": "OMV",
+  "street": "Epplestr. 55 ",
+  "postalCode": "70597",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 8.1,
+  "volatility": 187,
+  "coords": {
+    "lat": 48.74407,
+    "lng": 9.16911
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde97ad5ebf0ddb65e6f6"
+  },
+  "country": "de",
+  "id": "cbe29820-bdf6-4465-8677-099798b29616",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "SIEMENSSTR. 46 ",
+  "postalCode": "70469",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 4.81,
+  "volatility": 205,
+  "coords": {
+    "lat": 48.811391,
+    "lng": 9.176624
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde99ad5ebf0ddb65e6f7"
+  },
+  "country": "de",
+  "id": "cd1820d6-93a5-420c-b229-a012c1dd83d6",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Stuttgarter Straße 67",
+  "postalCode": "71384",
+  "place": "Weinstadt",
+  "isOpen": true,
+  "dist": 10.41,
+  "volatility": 137,
+  "coords": {
+    "lat": 48.80533,
+    "lng": 9.381961
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde9bad5ebf0ddb65e6f8"
+  },
+  "country": "de",
+  "id": "cd472d57-5600-4ad0-80d3-637bae4b9764",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Stuttgarter Str. 18",
+  "postalCode": "73734",
+  "place": "Esslingen",
+  "isOpen": false,
+  "dist": 8.25,
+  "volatility": 203,
+  "coords": {
+    "lat": 48.73641,
+    "lng": 9.29799
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde9dad5ebf0ddb65e6f9"
+  },
+  "country": "de",
+  "id": "cd8ba6a6-857c-1ee7-87df-3c331fb49617",
+  "name": "JET FELLBACH HOEHENSTR. 12",
+  "brand": "JET",
+  "street": "HOEHENSTR. 12",
+  "postalCode": "70736",
+  "place": "FELLBACH",
+  "isOpen": true,
+  "dist": 2.22,
+  "volatility": 205,
+  "coords": {
+    "lat": 48.81485,
+    "lng": 9.26035
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dde9ead5ebf0ddb65e6fa"
+  },
+  "country": "de",
+  "id": "cf030f97-637e-41b9-bd91-4f0af82705b8",
+  "name": "Rapp Autoservice GmbH",
+  "brand": "Rapp - Freie Tankstelle",
+  "street": "Hans-Krieg-Straße 43",
+  "postalCode": "71665",
+  "place": "Vaihingen/Enz",
+  "isOpen": true,
+  "dist": 24.54,
+  "volatility": 266,
+  "coords": {
+    "lat": 48.9282,
+    "lng": 8.967
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.679,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea0ad5ebf0ddb65e6fb"
+  },
+  "country": "de",
+  "id": "d210faa8-8eab-485f-a62a-af387cf734bf",
+  "name": "Shell Stuttgart Schwarenbergstr 124",
+  "brand": "Shell",
+  "street": "Schwarenbergstr 124",
+  "postalCode": "70188",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.56,
+  "volatility": 190,
+  "coords": {
+    "lat": 48.781237,
+    "lng": 9.200651
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea1ad5ebf0ddb65e6fc"
+  },
+  "country": "de",
+  "id": "d2631d4d-bfad-4a4f-9375-560923bd87c5",
+  "name": "Shell Schoenaich Steinenbronner Str. 30",
+  "brand": "Shell",
+  "street": "Steinenbronner Str. 30",
+  "postalCode": "71101",
+  "place": "Schoenaich",
+  "isOpen": true,
+  "dist": 19.73,
+  "volatility": 154,
+  "coords": {
+    "lat": 48.661896,
+    "lng": 9.071075
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea3ad5ebf0ddb65e6fd"
+  },
+  "country": "de",
+  "id": "d9652ee8-41f5-43ce-aa52-360963538ac9",
+  "name": "Shell Grossbottwar Kleinaspacher St. 38",
+  "brand": "Shell",
+  "street": "Kleinaspacher St. 38",
+  "postalCode": "71723",
+  "place": "Grossbottwar",
+  "isOpen": false,
+  "dist": 22.16,
+  "volatility": 142,
+  "coords": {
+    "lat": 48.995613,
+    "lng": 9.29771
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:35:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea4ad5ebf0ddb65e6fe"
+  },
+  "country": "de",
+  "id": "db5925af-414a-4c7e-a170-9995ac1e6b34",
+  "name": "STUTTGART - WELFENSTRASSE 32",
+  "brand": "AGIP ENI",
+  "street": "Welfenstrasse 32",
+  "postalCode": "70599",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 9.24,
+  "volatility": 181,
+  "coords": {
+    "lat": 48.71958,
+    "lng": 9.20812
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:35:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea6ad5ebf0ddb65e6ff"
+  },
+  "country": "de",
+  "id": "de20bca5-64e2-4a4a-71f8-40a562277e6d",
+  "name": "BFT Station Filderstadt",
+  "brand": "BFT Filderstadt",
+  "street": "Schillerstrasse 55",
+  "postalCode": "70794",
+  "place": "Filderstadt",
+  "isOpen": true,
+  "dist": 16.1,
+  "volatility": 187,
+  "coords": {
+    "lat": 48.658139,
+    "lng": 9.195942
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea7ad5ebf0ddb65e700"
+  },
+  "country": "de",
+  "id": "defffb81-c4da-4f04-92eb-bb503de51e12",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Hauptstr. 156",
+  "postalCode": "70563",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 13.09,
+  "volatility": 243,
+  "coords": {
+    "lat": 48.730938,
+    "lng": 9.095362
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddea9ad5ebf0ddb65e701"
+  },
+  "country": "de",
+  "id": "dfe3bd39-83cd-43b9-8628-f09896331b19",
+  "name": "OMV Tankstelle",
+  "brand": "OMV",
+  "street": "Esslinger Str. 136 ",
+  "postalCode": "70734",
+  "place": "Fellbach",
+  "isOpen": true,
+  "dist": 2.14,
+  "volatility": 196,
+  "coords": {
+    "lat": 48.80475,
+    "lng": 9.26837
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeaaad5ebf0ddb65e702"
+  },
+  "country": "de",
+  "id": "e102dc2a-a9db-4a70-adfa-4abd42ad7dcb",
+  "name": "AVIA S-Bebelstr.",
+  "brand": "AVIA",
+  "street": "Bebelstr. 9",
+  "postalCode": "70176",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 6.62,
+  "volatility": 224,
+  "coords": {
+    "lat": 48.7748,
+    "lng": 9.1581
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeacad5ebf0ddb65e703"
+  },
+  "country": "de",
+  "id": "e1a15081-254e-9107-e040-0b0a3dfe563c",
+  "name": "Schwieberdingen, Robert-Bosch-Str. 13",
+  "brand": "HEM",
+  "street": "Robert-Bosch-Str. 13",
+  "postalCode": "71701",
+  "place": "Schwieberdingen",
+  "isOpen": true,
+  "dist": 14.85,
+  "volatility": 329,
+  "coords": {
+    "lat": 48.881475,
+    "lng": 9.07929722
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:21:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeadad5ebf0ddb65e704"
+  },
+  "country": "de",
+  "id": "e1a15081-25a5-9107-e040-0b0a3dfe563c",
+  "name": "Schönaich, Gutenbergstr. 11",
+  "brand": "HEM",
+  "street": "Gutenbergstr. 11",
+  "postalCode": "71101",
+  "place": "Schönaich",
+  "isOpen": true,
+  "dist": 19.24,
+  "volatility": 178,
+  "coords": {
+    "lat": 48.6671,
+    "lng": 9.0721
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:21:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeafad5ebf0ddb65e705"
+  },
+  "country": "de",
+  "id": "e1cafea0-3da4-4419-9013-e41754332638",
+  "name": "RAN Station",
+  "brand": "RAN",
+  "street": "Engelbergstr. 5",
+  "postalCode": "70499",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 10.19,
+  "volatility": 321,
+  "coords": {
+    "lat": 48.804,
+    "lng": 9.101
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:35:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb0ad5ebf0ddb65e706"
+  },
+  "country": "de",
+  "id": "e5a0b409-e420-49b9-87aa-ebb8bfc311dc",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "PLOCHINGER STR. 21 ",
+  "postalCode": "73257",
+  "place": "KOENGEN",
+  "isOpen": true,
+  "dist": 16.19,
+  "volatility": 191,
+  "coords": {
+    "lat": 48.682236,
+    "lng": 9.369722
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:35:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb1ad5ebf0ddb65e707"
+  },
+  "country": "de",
+  "id": "e6aaa4e0-5876-4e05-a564-fb949df831e7",
+  "name": "AVIA XPress Automatenstation",
+  "brand": "AVIA XPress",
+  "street": "Klingenstraße 123",
+  "postalCode": "70188",
+  "place": "Stuttgart-Ost",
+  "isOpen": true,
+  "dist": 2.99,
+  "volatility": 159,
+  "coords": {
+    "lat": 48.78238,
+    "lng": 9.20912
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb2ad5ebf0ddb65e708"
+  },
+  "country": "de",
+  "id": "e8188d70-7cd4-4aa6-b419-188453dcf3a2",
+  "name": "BACKNANG - SULZBACHER STR.",
+  "brand": "AGIP ENI",
+  "street": "Sulzbacher Str. 192/1",
+  "postalCode": "71522",
+  "place": "Backnang",
+  "isOpen": true,
+  "dist": 22.66,
+  "volatility": 162,
+  "coords": {
+    "lat": 48.96056,
+    "lng": 9.43078
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:16:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb4ad5ebf0ddb65e709"
+  },
+  "country": "de",
+  "id": "eb1919d1-0b94-4b87-b1eb-1dd5efba10d8",
+  "name": "Shell Markgroeningen Oberriexinger St. 12",
+  "brand": "Shell",
+  "street": "Oberriexinger St. 12",
+  "postalCode": "71706",
+  "place": "Markgroeningen",
+  "isOpen": true,
+  "dist": 20.53,
+  "volatility": 178,
+  "coords": {
+    "lat": 48.937778,
+    "lng": 9.053104
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb5ad5ebf0ddb65e70a"
+  },
+  "country": "de",
+  "id": "ed444f06-8075-d108-e040-0b0a3dfe37b0",
+  "name": "Dettingen unter Teck, Kirchheimer Str. 176/2",
+  "brand": "HEM",
+  "street": "Kirchheimer Str. 176/2",
+  "postalCode": "73265",
+  "place": "Dettingen unter Teck",
+  "isOpen": true,
+  "dist": 24.93,
+  "volatility": 164,
+  "coords": {
+    "lat": 48.625938,
+    "lng": 9.454249
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb7ad5ebf0ddb65e70b"
+  },
+  "country": "de",
+  "id": "f04a7bef-a1ac-4ff2-a72b-f5ad8875dc98",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Neckaraue 2",
+  "postalCode": "71686",
+  "place": "Remseck",
+  "isOpen": true,
+  "dist": 10.29,
+  "volatility": 225,
+  "coords": {
+    "lat": 48.8901978,
+    "lng": 9.271213
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeb8ad5ebf0ddb65e70c"
+  },
+  "country": "de",
+  "id": "f46e8780-be1f-4cd0-aa4c-df92652452da",
+  "name": "Marbach am Neckar, Rielingshäuser Str. 25",
+  "brand": "HEM",
+  "street": "Rielingshäuser Str. 25",
+  "postalCode": "71672",
+  "place": "Marbach am Neckar",
+  "isOpen": true,
+  "dist": 16.06,
+  "volatility": 175,
+  "coords": {
+    "lat": 48.943243,
+    "lng": 9.26805
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:51:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddebaad5ebf0ddb65e70d"
+  },
+  "country": "de",
+  "id": "f7287700-e9b8-45c1-a146-3c45320fa392",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Stuttgarter Str. 16",
+  "postalCode": "72622",
+  "place": "Nürtingen",
+  "isOpen": true,
+  "dist": 19.7,
+  "volatility": 228,
+  "coords": {
+    "lat": 48.6328457,
+    "lng": 9.32902502
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.809,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddebbad5ebf0ddb65e70e"
+  },
+  "country": "de",
+  "id": "f8aed5a5-48c3-48d8-9c2a-1c6c17f1e5a7",
+  "name": "LD Tankstelle",
+  "brand": "LD Tankstelle",
+  "street": "Nürtinger Straße 24",
+  "postalCode": "72622",
+  "place": "Nürtingen",
+  "isOpen": true,
+  "dist": 20.93,
+  "volatility": 124,
+  "coords": {
+    "lat": 48.6180649,
+    "lng": 9.313156
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:18:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddebdad5ebf0ddb65e70f"
+  },
+  "country": "de",
+  "id": "fded1a59-8498-895d-e100-00000630df04",
+  "name": "MAGSTADT",
+  "brand": "AGIP ENI",
+  "street": "Aichern 3",
+  "postalCode": "71106",
+  "place": "Magstadt",
+  "isOpen": true,
+  "dist": 22.26,
+  "volatility": 200,
+  "coords": {
+    "lat": 48.744603,
+    "lng": 8.948177
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddebead5ebf0ddb65e710"
+  },
+  "country": "de",
+  "id": "fdfc6421-b19e-44eb-bb03-838265cc9eee",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Löchgauer Straße 77-79",
+  "postalCode": "74321",
+  "place": "Bietigheim-Bissingen",
+  "isOpen": true,
+  "dist": 19.99,
+  "volatility": 171,
+  "coords": {
+    "lat": 48.96211,
+    "lng": 9.121924
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec0ad5ebf0ddb65e711"
+  },
+  "country": "de",
+  "id": "ff22e024-d2cf-4136-ac43-a9a452905eac",
+  "name": "Shell Marbach Koenig-Wilhelm-Platz 11",
+  "brand": "Shell",
+  "street": "Koenig-Wilhelm-Platz 11",
+  "postalCode": "71672",
+  "place": "Marbach",
+  "isOpen": true,
+  "dist": 15.34,
+  "volatility": 205,
+  "coords": {
+    "lat": 48.937391,
+    "lng": 9.258705
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.809,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec1ad5ebf0ddb65e712"
+  },
+  "country": "de",
+  "id": "00060055-0001-4444-8888-acdc00000001",
+  "name": "Wilhlem Heim GmbH",
+  "brand": "Oel - Heim",
+  "street": "Gottlieb Daimler Str 16",
+  "postalCode": "71093",
+  "place": "Weil im Schönbuch ",
+  "isOpen": true,
+  "dist": 24.97,
+  "volatility": 11,
+  "coords": {
+    "lat": 48.620761871338,
+    "lng": 9.0349502563477
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.749,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:31:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec3ad5ebf0ddb65e713"
+  },
+  "country": "de",
+  "id": "51d4b6be-a095-1aa0-e100-80009459e03a",
+  "name": "JET STUTTGART NEUHAUSER STRASSE 50 B",
+  "brand": "JET",
+  "street": "NEUHAUSER STRASSE 50 B",
+  "postalCode": "70599",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 11.4,
+  "volatility": 176,
+  "coords": {
+    "lat": 48.69831,
+    "lng": 9.22005
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:28:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec5ad5ebf0ddb65e714"
+  },
+  "country": "de",
+  "id": "62b3f2c1-317c-474c-bd0a-1d10781be132",
+  "name": "Shell Aichwald Remstalstr. 8",
+  "brand": "Shell",
+  "street": "Remstalstr. 8",
+  "postalCode": "73773",
+  "place": "Aichwald",
+  "isOpen": true,
+  "dist": 12.45,
+  "volatility": 177,
+  "coords": {
+    "lat": 48.747783,
+    "lng": 9.39035
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:28:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec7ad5ebf0ddb65e715"
+  },
+  "country": "de",
+  "id": "dfbcb1cf-0bf1-4d03-be32-eb2fd463a7fc",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Pragstraße 138A",
+  "postalCode": "70376",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.46,
+  "volatility": 166,
+  "coords": {
+    "lat": 48.8075371,
+    "lng": 9.194154
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddec8ad5ebf0ddb65e716"
+  },
+  "country": "de",
+  "id": "6fcecd4e-3a03-4fba-b3ba-547a9efd5aa6",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Marbacher Straße 36",
+  "postalCode": "74385",
+  "place": "Pleidelsheim",
+  "isOpen": true,
+  "dist": 17.84,
+  "volatility": 179,
+  "coords": {
+    "lat": 48.95922,
+    "lng": 9.210152
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:14:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddecaad5ebf0ddb65e717"
+  },
+  "country": "de",
+  "id": "1d558b7a-3ea7-4c07-b69b-245e810c85a6",
+  "name": "Shell Renningen Dornierstr. 9",
+  "brand": "Shell",
+  "street": "Dornierstr. 9",
+  "postalCode": "71272",
+  "place": "Renningen",
+  "isOpen": true,
+  "dist": 22.78,
+  "volatility": 192,
+  "coords": {
+    "lat": 48.780829,
+    "lng": 8.930349
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddecbad5ebf0ddb65e718"
+  },
+  "country": "de",
+  "id": "23a3ea29-1a71-46b9-ab98-4f514950bea2",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "SCHWIEBERDINGER STR. 133 ",
+  "postalCode": "71636",
+  "place": "LUDWIGSBURG",
+  "isOpen": true,
+  "dist": 11.55,
+  "volatility": 245,
+  "coords": {
+    "lat": 48.889794,
+    "lng": 9.160793
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddecdad5ebf0ddb65e719"
+  },
+  "country": "de",
+  "id": "51d4b421-a095-1aa0-e100-80009459e03a",
+  "name": "JET LUDWIGSBURG MARBACHER STR. 101",
+  "brand": "JET",
+  "street": "MARBACHER STR. 101",
+  "postalCode": "71642",
+  "place": "LUDWIGSBURG",
+  "isOpen": true,
+  "dist": 11.73,
+  "volatility": 245,
+  "coords": {
+    "lat": 48.90342,
+    "lng": 9.20829
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddecead5ebf0ddb65e71a"
+  },
+  "country": "de",
+  "id": "6074dc04-32d8-4a2f-c27f-a4e573a16d4d",
+  "name": "HEES MANFRED",
+  "brand": "freie Tankstelle",
+  "street": "Daimlerstrasse 2",
+  "postalCode": "70736",
+  "place": "Fellbach-Oeffingen",
+  "isOpen": true,
+  "dist": 4.93,
+  "volatility": 200,
+  "coords": {
+    "lat": 48.842743,
+    "lng": 9.258031
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:13:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded0ad5ebf0ddb65e71b"
+  },
+  "country": "de",
+  "id": "92f703e8-0b3c-46da-9948-25cb1a6a1514",
+  "name": "SB Stuttgart Hackstraße 6",
+  "brand": "SB",
+  "street": "Hackstraße 6",
+  "postalCode": "70190",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.31,
+  "volatility": 163,
+  "coords": {
+    "lat": 48.789095,
+    "lng": 9.197897
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:56:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded1ad5ebf0ddb65e71c"
+  },
+  "country": "de",
+  "id": "6a89961b-01b4-4169-940b-775ad12ed623",
+  "name": "AVIA Bietigheim-Bissingen",
+  "brand": "AVIA",
+  "street": "Stuttgarter Str. 150",
+  "postalCode": "74321",
+  "place": "Bietigheim-Bissingen",
+  "isOpen": true,
+  "dist": 17.68,
+  "volatility": 190,
+  "coords": {
+    "lat": 48.9445,
+    "lng": 9.1391
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.709,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:56:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded3ad5ebf0ddb65e71d"
+  },
+  "country": "de",
+  "id": "c219fa8d-145b-4ebd-978a-603fa6cd355e",
+  "name": "AVIA Kirchheim",
+  "brand": "AVIA",
+  "street": "Jesinger Str. 50",
+  "postalCode": "73230",
+  "place": "Kirchheim",
+  "isOpen": true,
+  "dist": 23.55,
+  "volatility": 156,
+  "coords": {
+    "lat": 48.6453,
+    "lng": 9.4593
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded4ad5ebf0ddb65e71e"
+  },
+  "country": "de",
+  "id": "c3d14441-b1dc-488d-afc8-c1862c853eb7",
+  "name": "Shell Bietigheim-Bissingen Berliner Str. 40",
+  "brand": "Shell",
+  "street": "Berliner Str. 40",
+  "postalCode": "74321",
+  "place": "Bietigheim-Bissingen",
+  "isOpen": true,
+  "dist": 17.34,
+  "volatility": 198,
+  "coords": {
+    "lat": 48.941596,
+    "lng": 9.140512
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded6ad5ebf0ddb65e71f"
+  },
+  "country": "de",
+  "id": "99000348-efdb-48ed-8294-330c4a779ce3",
+  "name": "AVIA XPress Automatentankstelle",
+  "brand": "AVIA XPress",
+  "street": "Altenbergstraße 1",
+  "postalCode": "71384",
+  "place": "Weinstadt-Schnait",
+  "isOpen": true,
+  "dist": 11.62,
+  "volatility": 171,
+  "coords": {
+    "lat": 48.79478,
+    "lng": 9.398458
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:23:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded7ad5ebf0ddb65e720"
+  },
+  "country": "de",
+  "id": "a6b5d41e-de7b-4aa3-aad7-5727edfaf777",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Wiener Straße 129",
+  "postalCode": "70469",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 6.38,
+  "volatility": 249,
+  "coords": {
+    "lat": 48.8100967,
+    "lng": 9.154195
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:23:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648dded9ad5ebf0ddb65e721"
+  },
+  "country": "de",
+  "id": "bb5170cf-7991-4866-95aa-fadd2e14ca99",
+  "name": "Shell Fellbach Erich-Herion-Str. 33",
+  "brand": "Shell",
+  "street": "Erich-Herion-Str. 33",
+  "postalCode": "70736",
+  "place": "Fellbach",
+  "isOpen": true,
+  "dist": 2.18,
+  "volatility": 171,
+  "coords": {
+    "lat": 48.814688,
+    "lng": 9.259685
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddedaad5ebf0ddb65e722"
+  },
+  "country": "de",
+  "id": "dd850bf9-35e6-46e5-8bc1-e7882e54cff1",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Bahnhofstraße 10",
+  "postalCode": "73240",
+  "place": "Wendlingen",
+  "isOpen": true,
+  "dist": 17.47,
+  "volatility": 233,
+  "coords": {
+    "lat": 48.66993,
+    "lng": 9.37355
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.719,
+  "lastChange": {
+    "amount": 0.03,
+    "timestamp": "2023-06-17T17:33:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddedcad5ebf0ddb65e723"
+  },
+  "country": "de",
+  "id": "e1a15081-25b4-9107-e040-0b0a3dfe563c",
+  "name": "Stuttgart, Arnoldstr. 45",
+  "brand": "HEM",
+  "street": "Arnoldstr. 45",
+  "postalCode": "70378",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 4.59,
+  "volatility": 299,
+  "coords": {
+    "lat": 48.840261,
+    "lng": 9.226433
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.809,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeddad5ebf0ddb65e724"
+  },
+  "country": "de",
+  "id": "c0341c00-c30f-4129-ba03-d3dd74ccce99",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Daimlerstr. 1",
+  "postalCode": "73663",
+  "place": "Berglen",
+  "isOpen": true,
+  "dist": 16.31,
+  "volatility": 185,
+  "coords": {
+    "lat": 48.84737,
+    "lng": 9.450802
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:06:11+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddedfad5ebf0ddb65e725"
+  },
+  "country": "de",
+  "id": "d0fc17a6-a4d4-437e-bc74-ddd55dd6310f",
+  "name": "Aral Tankstelle, BMV Mineralölvertriebs GmbH",
+  "brand": "ARAL",
+  "street": "A 8",
+  "postalCode": "71067",
+  "place": "Sindelfingen",
+  "isOpen": true,
+  "dist": 16.38,
+  "volatility": 1,
+  "coords": {
+    "lat": 48.7425766,
+    "lng": 9.034182
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:32:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee0ad5ebf0ddb65e726"
+  },
+  "country": "de",
+  "id": "f45ba1b0-fd44-4bd2-a893-54a9a807c517",
+  "name": "AVIA S-Aldinger Str.",
+  "brand": "AVIA",
+  "street": "Aldinger Str. 74",
+  "postalCode": "70378",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 4.61,
+  "volatility": 279,
+  "coords": {
+    "lat": 48.841,
+    "lng": 9.2308
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:32:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee2ad5ebf0ddb65e727"
+  },
+  "country": "de",
+  "id": "f9f33d1b-3959-499c-b696-caaa9567f31a",
+  "name": "ENI",
+  "brand": "AGIP ENI",
+  "street": "Heilbronner Str. 390",
+  "postalCode": "70469",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 5.27,
+  "volatility": 204,
+  "coords": {
+    "lat": 48.8206654,
+    "lng": 9.175279
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee3ad5ebf0ddb65e728"
+  },
+  "country": "de",
+  "id": "f9a0f8fe-63b2-43e7-8bfe-898cb0a394cf",
+  "name": "RAN Station",
+  "brand": "RAN",
+  "street": "Hedelfinger Str. 17",
+  "postalCode": "70327",
+  "place": "Stuttgart",
+  "isOpen": true,
+  "dist": 3.45,
+  "volatility": 198,
+  "coords": {
+    "lat": 48.7694,
+    "lng": 9.2474
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:17:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee5ad5ebf0ddb65e729"
+  },
+  "country": "de",
+  "id": "05760a8a-b29b-44e4-93be-0070c3769619",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "SCHOZACHER STR. 51 ",
+  "postalCode": "70437",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 5.03,
+  "volatility": 275,
+  "coords": {
+    "lat": 48.829457,
+    "lng": 9.187781
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:44:14+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee6ad5ebf0ddb65e72a"
+  },
+  "country": "de",
+  "id": "109195b4-ac2f-4120-ae47-199386e700f6",
+  "name": "AVIA XPress Automatentankstelle",
+  "brand": "AVIA XPress",
+  "street": "Hauptstraße 110",
+  "postalCode": "71384",
+  "place": "Weinstadt-Strümpfelbach",
+  "isOpen": true,
+  "dist": 9.08,
+  "volatility": 173,
+  "coords": {
+    "lat": 48.7885,
+    "lng": 9.362702
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.779,
+  "lastChange": {
+    "amount": 0.01,
+    "timestamp": "2023-06-17T17:44:14+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee8ad5ebf0ddb65e72b"
+  },
+  "country": "de",
+  "id": "255ad476-6eed-449e-a668-b43db91045a4",
+  "name": "Shell Asperg Ludwigsburger Str. 1",
+  "brand": "Shell",
+  "street": "Ludwigsburger Str. 1",
+  "postalCode": "71679",
+  "place": "Asperg",
+  "isOpen": true,
+  "dist": 12.49,
+  "volatility": 242,
+  "coords": {
+    "lat": 48.89716,
+    "lng": 9.154326
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.799,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:32:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddee9ad5ebf0ddb65e72c"
+  },
+  "country": "de",
+  "id": "2bcc801e-8c9f-4559-afe0-70f2f3aed092",
+  "name": "Aral Tankstelle",
+  "brand": "ARAL",
+  "street": "Hohenheimer Straße 49",
+  "postalCode": "70794",
+  "place": "Filderstadt",
+  "isOpen": true,
+  "dist": 15.94,
+  "volatility": 195,
+  "coords": {
+    "lat": 48.6593781,
+    "lng": 9.197765
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.739,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:32:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeebad5ebf0ddb65e72d"
+  },
+  "country": "de",
+  "id": "a11eecd9-f4a5-46a1-af78-7964325622fa",
+  "name": "TotalEnergies Esslingen",
+  "brand": "TotalEnergies",
+  "street": "Urbanstr. 65",
+  "postalCode": "73728",
+  "place": "Esslingen",
+  "isOpen": true,
+  "dist": 8.9,
+  "volatility": 133,
+  "coords": {
+    "lat": 48.739577,
+    "lng": 9.319722
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:04:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeecad5ebf0ddb65e72e"
+  },
+  "country": "de",
+  "id": "410cc4ae-15b1-4c9e-9a27-fd5315cfe027",
+  "name": "Backnang, Sulzbacher Str. 152",
+  "brand": "HEM",
+  "street": "Sulzbacher Str. 152",
+  "postalCode": "71522",
+  "place": "Backnang",
+  "isOpen": true,
+  "dist": 22.35,
+  "volatility": 162,
+  "coords": {
+    "lat": 48.957053,
+    "lng": 9.430753
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T18:10:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeeead5ebf0ddb65e72f"
+  },
+  "country": "de",
+  "id": "4b6ad6c8-e9c1-4c65-bd1e-aa6d6c007626",
+  "name": "Holzgerlingen, Im Dörnach 1",
+  "brand": "HEM",
+  "street": "Im Dörnach 1",
+  "postalCode": "71088",
+  "place": "Holzgerlingen",
+  "isOpen": true,
+  "dist": 24.73,
+  "volatility": 187,
+  "coords": {
+    "lat": 48.639682,
+    "lng": 9.006324
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.819,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef0ad5ebf0ddb65e730"
+  },
+  "country": "de",
+  "id": "51c71dc8-5821-410c-85b1-36e7f46a6447",
+  "name": "STEINENBRONN - UMGEHUNGSSTRASSE 65",
+  "brand": "AGIP ENI",
+  "street": "Umgehungsstrasse 65",
+  "postalCode": "71144",
+  "place": "Steinenbronn",
+  "isOpen": true,
+  "dist": 17.9,
+  "volatility": 178,
+  "coords": {
+    "lat": 48.658715,
+    "lng": 9.1229062
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.759,
+  "lastChange": {
+    "amount": -0.02,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef2ad5ebf0ddb65e731"
+  },
+  "country": "de",
+  "id": "75ea4cea-7087-4882-a7f6-b33cfb9be9be",
+  "name": "AVIA Rutesheim",
+  "brand": "AVIA",
+  "street": "Renninger Str. 24",
+  "postalCode": "71277",
+  "place": "Rutesheim",
+  "isOpen": true,
+  "dist": 21.83,
+  "volatility": 238,
+  "coords": {
+    "lat": 48.807,
+    "lng": 8.9421
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef3ad5ebf0ddb65e732"
+  },
+  "country": "de",
+  "id": "f546dab9-f717-4233-9d51-128c48aa0d0e",
+  "name": "Shell Kirchheim / Teck Kruichling 15",
+  "brand": "Shell",
+  "street": "Kruichling 15",
+  "postalCode": "73230",
+  "place": "Kirchheim / Teck",
+  "isOpen": true,
+  "dist": 22.21,
+  "volatility": 220,
+  "coords": {
+    "lat": 48.644046,
+    "lng": 9.429249
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef5ad5ebf0ddb65e733"
+  },
+  "country": "de",
+  "id": "9cdcd4a9-03cd-4754-da1b-f0abc439a496",
+  "name": "Betz Automobile GmbH",
+  "brand": "bft",
+  "street": "Zollhausweg 37",
+  "postalCode": "73734",
+  "place": "Esslingen",
+  "isOpen": true,
+  "dist": 9.46,
+  "volatility": 8,
+  "coords": {
+    "lat": 48.725126,
+    "lng": 9.301294
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.749,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:21:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef6ad5ebf0ddb65e734"
+  },
+  "country": "de",
+  "id": "51d4b454-a095-1aa0-e100-80009459e03a",
+  "name": "JET KIRCHHEIM DETTINGER STR. 87",
+  "brand": "JET",
+  "street": "DETTINGER STR. 87",
+  "postalCode": "73230",
+  "place": "KIRCHHEIM",
+  "isOpen": true,
+  "dist": 23.63,
+  "volatility": 158,
+  "coords": {
+    "lat": 48.64086,
+    "lng": 9.45345
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.689,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:21:10+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef8ad5ebf0ddb65e735"
+  },
+  "country": "de",
+  "id": "51d4b4c1-a095-1aa0-e100-80009459e03a",
+  "name": "Supermarkt-Tankstelle GERLINGEN WEILIMDORFER STR. 91",
+  "brand": "Supermarkt-Tankstelle",
+  "street": "WEILIMDORFER STR. 91",
+  "postalCode": "70839",
+  "place": "GERLINGEN",
+  "isOpen": true,
+  "dist": 12.05,
+  "volatility": 182,
+  "coords": {
+    "lat": 48.80613,
+    "lng": 9.07578
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddef9ad5ebf0ddb65e736"
+  },
+  "country": "de",
+  "id": "51d4b4d6-a095-1aa0-e100-80009459e03a",
+  "name": "JET STUTTGART VERA-VOLLMER-STR. 2",
+  "brand": "JET",
+  "street": "VERA-VOLLMER-STR. 2",
+  "postalCode": "70469",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 5.66,
+  "volatility": 184,
+  "coords": {
+    "lat": 48.81715,
+    "lng": 9.16719
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T17:22:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddefbad5ebf0ddb65e737"
+  },
+  "country": "de",
+  "id": "51d4b52f-a095-1aa0-e100-80009459e03a",
+  "name": "Supermarkt-Tankstelle ESSLINGEN WANNENRAIN 30",
+  "brand": "Supermarkt-Tankstelle",
+  "street": "WANNENRAIN 30",
+  "postalCode": "73733",
+  "place": "ESSLINGEN",
+  "isOpen": true,
+  "dist": 6.72,
+  "volatility": 86,
+  "coords": {
+    "lat": 48.74244,
+    "lng": 9.26773
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddefcad5ebf0ddb65e738"
+  },
+  "country": "de",
+  "id": "51d4b61e-a095-1aa0-e100-80009459e03a",
+  "name": "JET BIETIGHEIM-BISSINGEN BAHNHOFSTR. 149",
+  "brand": "JET",
+  "street": "BAHNHOFSTR. 149",
+  "postalCode": "74321",
+  "place": "BIETIGHEIM-BISSINGEN",
+  "isOpen": true,
+  "dist": 18.19,
+  "volatility": 169,
+  "coords": {
+    "lat": 48.94689,
+    "lng": 9.13062
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:01:06+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddefead5ebf0ddb65e739"
+  },
+  "country": "de",
+  "id": "51d4b705-a095-1aa0-e100-80009459e03a",
+  "name": "JET NUERTINGEN EUROPASTR. 16",
+  "brand": "JET",
+  "street": "EUROPASTR. 16",
+  "postalCode": "72622",
+  "place": "NUERTINGEN",
+  "isOpen": true,
+  "dist": 20.42,
+  "volatility": 135,
+  "coords": {
+    "lat": 48.6285,
+    "lng": 9.33945
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.829,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddeffad5ebf0ddb65e73a"
+  },
+  "country": "de",
+  "id": "2689e246-8509-43e8-86b7-fb32d82541dd",
+  "name": "AVIA Tankstelle",
+  "brand": "AVIA",
+  "street": "Weil-der-Städter-Straße 57",
+  "postalCode": "71272",
+  "place": "Renningen",
+  "isOpen": true,
+  "dist": 23,
+  "volatility": 200,
+  "coords": {
+    "lat": 48.76062,
+    "lng": 8.931775
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.769,
+  "lastChange": {
+    "amount": -0.01,
+    "timestamp": "2023-06-17T17:26:08+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddf01ad5ebf0ddb65e73b"
+  },
+  "country": "de",
+  "id": "b6026c5a-23ee-41af-a884-5ce91d46d99a",
+  "name": "Shell Winnenden Waiblinger Str. 84",
+  "brand": "Shell",
+  "street": "Waiblinger Str. 84",
+  "postalCode": "71364",
+  "place": "Winnenden",
+  "isOpen": true,
+  "dist": 13.44,
+  "volatility": 173,
+  "coords": {
+    "lat": 48.872496,
+    "lng": 9.387013
+  },
+  "category": "gasoline",
+  "category_name": "Super E5",
+  "price": 1.789,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+},{
+  "_id": {
+    "$oid": "648ddf02ad5ebf0ddb65e73c"
+  },
+  "country": "de",
+  "id": "bca35344-bf9e-4ad3-ab6b-92293d2621d6",
+  "name": "Esso Tankstelle",
+  "brand": "ESSO",
+  "street": "HEILBRONNER STR. 92 ",
+  "postalCode": "70191",
+  "place": "STUTTGART",
+  "isOpen": true,
+  "dist": 4.29,
+  "volatility": 235,
+  "coords": {
+    "lat": 48.793749,
+    "lng": 9.182206
+  },
+  "category": "gasoline",
+  "category_name": "Super E10",
+  "price": 1.729,
+  "lastChange": {
+    "amount": -0.03,
+    "timestamp": "2023-06-17T18:12:09+02"
+  }
+}]

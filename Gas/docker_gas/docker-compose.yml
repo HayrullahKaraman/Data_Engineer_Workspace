@@ -1,0 +1,41 @@
+version: "3.9"
+services:
+  zookeeper:
+    image: "zookeeper:3.8.0"
+    container_name: zookeeper
+    hostname: zookeeper
+    ports:
+      - "2181:2181"
+  
+  
+  kafka:
+    image: "bitnami/kafka:3.3.1"
+    container_name: kafka
+    ports:
+      - "9092:9092"
+      - '29092:29092'
+
+    environment:
+      KAFKA_BROKER_ID: 0
+      KAFKA_CFG_LISTENERS: "PLAINTEXT://:9092,PLAINTEXT_HOST://:29092"
+      KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP: "PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT"
+      KAFKA_CFG_ADVERTISED_LISTENERS: "PLAINTEXT://127.0.0.1:9092,PLAINTEXT_HOST://kafka:29092"
+      KAFKA_CFG_ZOOKEEPER_CONNECT: "zookeeper:2181/kafka"
+      ALLOW_PLAINTEXT_LISTENER: "yes"
+      KAFKA_CFG_ADVERTISED_HOST_NAME: "kafka"
+    depends_on:
+      - zookeeper
+    
+
+  nifi2:
+    image: apache/nifi:1.13.1
+    container_name: nifi
+    ports:
+      - 8181:8080
+  
+   
+networks:
+  mobile:
+    driver: bridge
+
+
